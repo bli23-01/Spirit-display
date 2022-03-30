@@ -1,6 +1,5 @@
 # Spirit-display
 # 春社酒坊演示视频
-由于该项目仍在进行中，故暂没有开放源码的个人库
 [![Watch the video]()](https://github.com/bli23-01/MyMarkdownSrc/blob/main/Spirite/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
 # 演示图片
 ![Watch the video](https://github.com/bli23-01/MyMarkdownSrc/blob/main/Spirite/1.png)
